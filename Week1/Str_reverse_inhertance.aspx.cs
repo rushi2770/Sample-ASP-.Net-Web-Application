@@ -5,7 +5,7 @@ namespace Week1
 {
     public partial class Str_reverse_inhertance : System.Web.UI.Page
     {
-        //added this comment
+        //added this comment 
         protected void Page_Load(object sender, EventArgs e)
         {
 
